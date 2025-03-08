@@ -1,0 +1,10 @@
+Flask==2.3.3
+pymongo==4.6.1
+langchain==0.0.352
+transformers==4.36.2
+llama-index==0.9.29
+pandas==2.1.4
+torch==2.1.2
+huggingface-hub==0.20.1
+numpy==1.26.2
+jinja2==3.1.2
